@@ -1,0 +1,8 @@
+{
+  "name": "Glavaticevo Eco-Initiative",
+  "description": "Premium showcase for ecological and botanical flagship projects in the Glavaticevo region, featuring the large-scale Aviary Dome and Exotic Botanical Garden.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
